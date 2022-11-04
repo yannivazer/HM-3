@@ -1,0 +1,28 @@
+#nmb{
+    width:80%;
+    padding:15px;
+    background-color: rgb(235, 233, 233);
+    color: black;
+    border-color: white;
+}
+
+#fct{
+    width:80%;
+    padding:15px;
+    background-color: lightgrey;
+    color: black;
+    border-color: white;
+}
+
+#solve{
+    width:80%;
+    padding:15px;
+}
+
+#result
+{
+    padding:20px;
+    border-radius: 5px;
+ font-size: 60px; 
+ font-weight: 400;
+}
